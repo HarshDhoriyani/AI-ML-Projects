@@ -1,0 +1,29 @@
+RAG Chatbot — Sample FAQ Document
+
+Q: What is Retrieval-Augmented Generation (RAG)?
+A: RAG is a technique that combines a retrieval system with a language model.
+Instead of relying only on what the language model memorized during training,
+RAG first retrieves relevant chunks of text from an external knowledge base
+(such as your own documents) and then feeds those chunks to the model as
+context so it can generate a grounded, accurate answer.
+
+Q: Why use FAISS?
+A: FAISS (Facebook AI Similarity Search) is a fast, open-source library for
+efficient similarity search over dense vectors. It allows this chatbot to
+find the most relevant document chunks for a given question in milliseconds,
+even across large collections of text.
+
+Q: Can I use my own documents?
+A: Yes. Simply place PDF, DOCX, TXT, or Markdown files into the `data/raw/`
+folder, then run `python scripts/build_index.py` to rebuild the vector index.
+The chatbot will then be able to answer questions using your content.
+
+Q: Does this project require an OpenAI API key?
+A: No. By default the chatbot uses a free, local HuggingFace model
+(`google/flan-t5-base`) for both embeddings and generation, so it can run
+entirely offline on a CPU. If you want higher-quality answers, you can switch
+`LLM_PROVIDER` to `openai` in the `.env` file and provide your own API key.
+
+Q: How do I delete this sample file?
+A: Just remove `sample_faq.txt` from `data/raw/` and rebuild the index with
+your own documents.
