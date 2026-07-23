@@ -1,0 +1,51 @@
+movieId,title,year,genres
+1,The Matrix,1999,Action|Sci-Fi|Thriller
+2,Inception,2010,Action|Sci-Fi|Thriller
+3,Interstellar,2014,Adventure|Drama|Sci-Fi
+4,The Dark Knight,2008,Action|Crime|Drama
+5,Pulp Fiction,1994,Crime|Drama|Thriller
+6,Forrest Gump,1994,Drama|Romance
+7,The Shawshank Redemption,1994,Drama
+8,The Godfather,1972,Crime|Drama
+9,Fight Club,1999,Drama|Thriller
+10,Se7en,1995,Crime|Drama|Thriller
+11,The Lion King,1994,Animation|Adventure|Family
+12,Toy Story,1995,Animation|Adventure|Comedy|Family
+13,Finding Nemo,2003,Animation|Adventure|Comedy|Family
+14,Shrek,2001,Animation|Adventure|Comedy|Family
+15,Up,2009,Animation|Adventure|Comedy|Drama|Family
+16,The Hangover,2009,Comedy
+17,Superbad,2007,Comedy|Romance
+18,Bridesmaids,2011,Comedy|Romance
+19,Anchorman,2004,Comedy
+20,Step Brothers,2008,Comedy
+21,Titanic,1997,Drama|Romance
+22,The Notebook,2004,Drama|Romance
+23,La La Land,2016,Comedy|Drama|Musical|Romance
+24,Pride and Prejudice,2005,Drama|Romance
+25,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi
+26,Get Out,2017,Horror|Mystery|Thriller
+27,A Quiet Place,2018,Drama|Horror|Sci-Fi
+28,Hereditary,2018,Drama|Horror|Mystery
+29,The Conjuring,2013,Horror|Mystery|Thriller
+30,It,2017,Horror|Thriller
+31,John Wick,2014,Action|Crime|Thriller
+32,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi
+33,Die Hard,1988,Action|Thriller
+34,Gladiator,2000,Action|Adventure|Drama
+35,The Avengers,2012,Action|Adventure|Sci-Fi
+36,Guardians of the Galaxy,2014,Action|Adventure|Comedy|Sci-Fi
+37,Spider-Man: Into the Spider-Verse,2018,Action|Animation|Adventure|Sci-Fi
+38,Coco,2017,Animation|Adventure|Family|Musical
+39,The Grand Budapest Hotel,2014,Adventure|Comedy|Drama
+40,Whiplash,2014,Drama|Music
+41,A Star Is Born,2018,Drama|Music|Romance
+42,Bohemian Rhapsody,2018,Biography|Drama|Music
+43,The Social Network,2010,Biography|Drama
+44,Moneyball,2011,Biography|Drama|Sport
+45,The Imitation Game,2014,Biography|Drama|Thriller
+46,Jurassic Park,1993,Adventure|Sci-Fi|Thriller
+47,Back to the Future,1985,Adventure|Comedy|Sci-Fi
+48,E.T. the Extra-Terrestrial,1982,Adventure|Family|Sci-Fi
+49,Arrival,2016,Drama|Mystery|Sci-Fi
+50,Blade Runner 2049,2017,Action|Drama|Mystery|Sci-Fi
