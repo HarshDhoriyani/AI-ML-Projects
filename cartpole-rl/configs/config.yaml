@@ -1,0 +1,11 @@
+# Configuration for CartPole-v1 Hill Climbing training run
+
+env_name: "CartPole-v1"
+episodes: 20
+target_score: 500.0
+seed: 0
+noise_scale_init: 0.01
+
+paths:
+  model_out: "models/best_weights.npy"
+  results_out: "results/scores.csv"
