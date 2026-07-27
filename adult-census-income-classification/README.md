@@ -120,10 +120,6 @@ The training script prints and saves a classification report + confusion matrix 
 pytest tests/
 ```
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE).
-
 ## 🙌 Acknowledgements
 
 - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository, Adult Data Set. University of California, Irvine, School of Information and Computer Sciences.
